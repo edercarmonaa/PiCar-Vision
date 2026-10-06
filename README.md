@@ -2,7 +2,7 @@
 
 PiCar Vision es un prototipo para controlar un carro basado en Raspberry Pi mediante teclado, cámara y procesamiento básico de visión por computadora.
 
-El proyecto reúne pruebas de movimiento por GPIO, vista de cámara, detección de rostros/cuerpo, transmisión de video y lectura de sensores para apoyar la construcción de un carro educativo con Raspberry Pi.
+El proyecto reúne pruebas de movimiento por GPIO, vista de cámara, detección de rostros/cuerpo, transmisión de video y lectura de sensores para apoyar la construcción de un carro educativo con Raspberry Pi. El código corresponde a un proyecto desarrollado originalmente en 2018.
 
 ## El problema
 
@@ -211,7 +211,7 @@ No hay tests automatizados en este proyecto. La validación actual es manual y d
 
 ## Estado del proyecto
 
-Prototipo funcional para entorno Raspberry Pi. El código contiene pruebas útiles y una interfaz principal, pero aún requiere validación en hardware real antes de considerarse estable.
+Prototipo funcional para entorno Raspberry Pi, desarrollado originalmente en 2018. El código contiene pruebas útiles y una interfaz principal, pero aún requiere validación en hardware real antes de considerarse estable.
 
 ## Limitaciones actuales
 
@@ -240,4 +240,4 @@ Prototipo funcional para entorno Raspberry Pi. El código contiene pruebas útil
 
 ## Licencia
 
-Este proyecto se distribuye bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+Este proyecto se distribuye bajo la licencia MIT. El archivo `LICENSE` indica copyright 2026 a nombre de Eder Carmona.
