@@ -1,0 +1,70 @@
+# Environment and local configuration
+.env
+.env.*
+!.env.example
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+.venv/
+env/
+.envrc
+
+# Logs, cache, coverage and temporary files
+*.log
+logs/
+cache/
+tmp/
+temp/
+.pytest_cache/
+.coverage
+coverage/
+htmlcov/
+
+# Local databases and dumps
+*.sqlite
+*.sqlite3
+*.db
+*.sql
+*.dump
+
+# Backups and local copies
+*.bak
+*.backup
+*.old
+*.copy
+
+# Secrets and credentials
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa
+id_ed25519
+credentials.json
+service-account.json
+firebase-adminsdk*.json
+google-services.json
+auth.json
+secrets.json
+secrets.yml
+
+# Generated media from camera demos
+foto.jpg
+img*.jpg
+video.h264
+
+# Downloaded archives and executables
+*.zip
+*.rar
+*.7z
+*.exe
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

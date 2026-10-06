@@ -1,0 +1,8 @@
+Adafruit_DHT
+imutils
+numpy
+opencv-python
+picamera
+Pillow
+RPi.GPIO
+smbus2
